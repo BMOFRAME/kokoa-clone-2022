@@ -1,0 +1,110 @@
+#title {
+  text-align: center;
+}
+
+.boxs1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: 600;
+}
+
+.boxs2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: 600;
+}
+
+.tomato {
+  background-color: tomato;
+  width: 200px;
+  height: 400px;
+  margin: 30px 30px;
+  position: relative;
+}
+
+.teal {
+  background-color: teal;
+  width: 200px;
+  height: 400px;
+  margin: 30px 30px;
+  position: relative;
+}
+
+.burlywood {
+  background-color: burlywood;
+  width: 200px;
+  height: 400px;
+  margin: 30px 30px;
+  position: relative;
+}
+
+.thistle {
+  background-color: thistle;
+  width: 200px;
+  height: 400px;
+  margin: 30px 30px;
+  position: relative;
+}
+
+.tomato_textbox {
+  width: 160px;
+  height: 80px;
+  font-size: 20px;
+  background-color: white;
+  padding: 10px;
+  position: absolute;
+  top: 20px;
+  right: 10px;
+  display: flex;
+  flex-direction: column;
+}
+
+.teal_textbox {
+  width: 160px;
+  height: 80px;
+  font-size: 20px;
+  background-color: white;
+  padding: 10px;
+  position: absolute;
+  top: 20px;
+  right: 10px;
+}
+
+.burlywood_textbox {
+  width: 160px;
+  height: 80px;
+  font-size: 20px;
+  background-color: white;
+  padding: 10px;
+  position: absolute;
+  top: 20px;
+  right: 10px;
+}
+.thistle_textbox {
+  width: 160px;
+  height: 80px;
+  font-size: 20px;
+  background-color: white;
+  padding: 10px;
+  position: absolute;
+  top: 20px;
+  right: 10px;
+}
+
+.tomato_title {
+  margin-bottom: 10px;
+}
+
+.teal_title {
+  margin-bottom: 10px;
+}
+
+.burlywood_title {
+  margin-bottom: 10px;
+}
+
+.thistle_title {
+  margin-bottom: 10px;
+}
